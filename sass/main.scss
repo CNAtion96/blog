@@ -66,15 +66,16 @@ body {
 			position:relative;
 		}
 		
-		p {
-			z-index:5;
-			position: relative;
-		}
+			p {
+				z-index:5;
+				position: relative;
+			}
 
-		h2 {
-			z-index:5;
-			position: relative;
-			font-weight: bold;}
+			h2 {
+				z-index:5;
+				position: relative;
+				font-weight: bold;
+			}
 		}
 	}
 
@@ -84,5 +85,4 @@ body {
 		width: 68%;
 		display: inline-block;
 	}
-
 }
